@@ -142,7 +142,7 @@ can display the measurements for shifters in the run control room.
 
 <div class="row">
 	<div class="col-sm"></div>
-	<div class="col-sm-8 mt-3 mt-md-0 px-sm-4">
+	<div class="col-sm-9 mt-3 mt-md-0 px-sm-4">
 	{% include figure.html path="assets/img/about/fill_4879_cogging.png" title="Cogging measurement in LHC FILL 4879" class="img-fluid rounded z-depth-1" %}
     </div>	
 </div>
