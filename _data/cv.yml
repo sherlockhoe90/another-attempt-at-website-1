@@ -4,94 +4,63 @@
     - name: Full Name
       value: Andrey Pozdnyakov
     - name: Date of Birth
-      value: SOme Day of a Month in 1985
+      value: Some Day of a Month in year 1985
     - name: Languages
-      value: Russian, English, German, French
+      value: Russian, English, German (B1), French (A2)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: Northwestern University, Ecanston, US
+      institution: Northwestern University (Evanston, US)
       year: 2015
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Search for the Higgs Boson Decays to a Photon and Two Leptons with low Dilepton Invariant Mass
+    - title: Masters Diploma
+      institution: Moscow Institute of Physics and Technology (Russia)
+      year: 2008
       description:
-        - Description 1.
-        - Description 2.
-
+        - Impact of the Parton Distribution Functions at small x on the spectra of hadronic jets.
+    - title: Bachelors Diploma
+      institution: Moscow Institute of Physics and Technology
+      year: 2006
+      description:
+         - Detecting a Higgs boson with high mass at LHC, Monte Carlo simulations.
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral researcher
+      institution: RWTH Aachen University (Germany)
+      year: 2018 - current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Working on CMS Experiment at the LHC
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Data analysis and search for Higgs boson decay to charm quarks. 
+            - Event simulation and sample generation for CMS experiment.
+    - title: Postdoctoral researcher
+      institution: National Central University (Taiwan)
+      year: 2015 - 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Search for HH → bbγγ process at CMS
+        - Responsible for BPTX system of the CMS detector
+        - Test beam for HGCAL detector modules for future CMS upgrade
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Data analysis of the CMS experiment
       items:
-        - Description 1.
-        - Description 2.
+        - Search for H → cc and H → bb decays
+        - Constraining Higgs-charm Yukawa coupling
+        - Search for Higgs + charm production process at LHC 
+        - Search for H → γ*γ → ℓℓγ decay
+    - title: Monte Carlo generators and Event simulation
+      items:
+        - Accurate simulation of V+jets processes at LHC
+        - Comparison of various MC generators
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - chess, football

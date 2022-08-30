@@ -175,9 +175,9 @@ quarks. With current data this process is not yet accessible to the
 level of the SM, but an upper limit on some new physics models could
 be achieved. In 2022 in CMS we released two searches for *H → cc*
 decay with the full Run-2 data set collected between 2016
-and 2018. One analysis is done in VH producion channel, and we set the
-stringest limit to date on the *H → cc*, at 14 times the SM value
-[[13](#ref)]. It also leads to the stringest constraint on the
+and 2018. One analysis is done in VH production channel, and we set the
+stringiest limit to date on the *H → cc*, at 14 times the SM value
+[[13](#ref)]. It also leads to the stringiest constraint on the
 coupling of the Higgs boson to charm quark, 1.1 < |κ<sub>c</sub>| <
 5.5. The second analysis is looking into gluon-fusion production
 channel of the Higgs and here we set a limit at 45 times the SM
