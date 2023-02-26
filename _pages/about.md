@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hello Internet, welcome to my web page.
+subtitle: Hello Internet, welcome to my web page!
 
 profile:
   align: right
@@ -13,11 +13,11 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 
-My name is Andrey, and I am a member of the CMS experiment at the LHC
+My name is Nehansh and not Andrey, and I am a member of the CMS experiment at the LHC
 since 2006, when I started working on my master’s degree at Moscow
 Institute of Physics and Technology (Russia). After that I joined a
 PhD program at Northwestern University (US) and defended my PhD thesis
